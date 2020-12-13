@@ -1,6 +1,7 @@
 # Typescript Backend Boilerplate
 
 - [About](#about)
+- [Commit Conventions](commit-conventions)
 - [Pull Requests](#pull-requests)
 - [Fixing Bugs](#fixing-bugs)
 
@@ -9,8 +10,9 @@
 This repository is for sharing my typescript backend setup.
 Ideas and patches are appreciated, but keep it simple.
 
-### dependencies
+### Dependencies
 
+#### NodeJS
 - Express
 - Typescript
 - ts-node-dev
@@ -19,8 +21,7 @@ Ideas and patches are appreciated, but keep it simple.
 - EsLint (FUTURE!)
 - Jest (FUTURE!)
 
-### 
-
+#### Others
 - Docker
 - GitHub Actions (FUTURE!)
 
