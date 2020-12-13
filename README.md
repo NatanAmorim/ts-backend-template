@@ -18,8 +18,9 @@ Ideas and patches are appreciated, but keep it simple.
 - ts-node-dev
 - Babel Webpack
 - Husky
-- EsLint (FUTURE!)
+- ESLint (FUTURE!)
 - Jest (FUTURE!)
+- Commitizen (FUTURE!)
 
 #### Others
 - Docker
